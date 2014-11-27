@@ -3,7 +3,7 @@ package com.as.util;
 public class Array {
 	public static void main(String[] args) {
 		
-		int i[]={100,200,300};
+		int i[]={};
 		
 		int j;
 		
